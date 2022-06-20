@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HaoranYi
-- 👀 I’m interested in morden compute architecture and compiler techniques for large data AI applications.
+- 👀 I’m interested in modern computing system architecture and compiler techniques for large data AI applications.
 - 🌱 I’m currently learning AI algoirthm and hardware description languages.
 - 💞️ I’m looking to collaborate on hardware design for AI algorithm....
 - 📫 How to reach me hyi@github.com
